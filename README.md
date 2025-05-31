@@ -29,20 +29,10 @@ Each week includes a hands-on assignment and a graded quiz based on real-world d
 
 ---
 
-## ✅ Submission Guidelines
-
-- All assignments are completed individually in adherence to the honor code.
-- This repository serves as the source for submission links.
-
----
-
-
 ## 🙏 Acknowledgments
 
 Thanks to Team C&A and the organizing committee of Summer Analytics 2025 for creating such a meaningful learning journey.
 
-Looking forward to growing my data science and analytics skills throughout this program.
+Looking forward to growing my data science and machine learninng skills throughout this program.
 
 ---
-
-Feel free to explore each folder for my weekly progress. Feedback is always welcome!
