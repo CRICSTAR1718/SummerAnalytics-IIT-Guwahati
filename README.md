@@ -1,4 +1,4 @@
-# 🌞 Summer Analytics 2025 – Assignments Repository
+# 🌞 Summer Analytics 2025 – IIT-Guwahati
 
 Welcome to my official repository for all assignments completed as part of the Summer Analytics 2025 program.
 
