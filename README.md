@@ -11,8 +11,7 @@ This repository contains all my weekly assignment submissions, datasets, and ref
 Summer Analytics 2025 is a beginner-friendly initiative focused on developing practical skills in:
 
 - Python Programming
-- Data Analysis using Pandas & NumPy
-- Data Cleaning & Preprocessing
+- Data Science
 - Machine Learning
 
 Each week includes a hands-on assignment and a graded quiz based on real-world datasets.
